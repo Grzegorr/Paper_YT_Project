@@ -6,3 +6,5 @@ Interpreter/
 openpose/
 Processed Images/
 Processed Videos/
+.idea/
+__pycache__/
