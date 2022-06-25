@@ -1,0 +1,8 @@
+Data/
+TEMP_FILES/
+TEMP_FILES_2/
+TEMP_FILES_3/
+Interpreter/
+openpose/
+Processed Images/
+Processed Videos/
